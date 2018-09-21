@@ -9,3 +9,5 @@ Dependencies
 - numpy 1.12.0
 - PeakUtils 1.0.3
 - (optional) matplotlib 2.0.0
+
+Written by Isaac D. Wang, Heng Yao, and Sarah Morrison-Smith
